@@ -4,7 +4,7 @@ using MVCvsMVP.Scripts;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class RangerInfoView : MonoBehaviour
+public class RangerInfoView : MonoBehaviour // 6) Мы создаем представление инфо бокса,добовляем сслыки на части интерфейса (строки 9-13) и метод Инит
 {
     public Image icon;
     public Text colorText;
@@ -12,7 +12,7 @@ public class RangerInfoView : MonoBehaviour
     public Text ageText;
     public Text profText;
 
-    public void Init(RangerData data)
+    public void Init(RangerData data) //в этом методе мы настраиваем элементы нашего представления ( инфо бокса) согласно элементам модели (RangerData)
     {
         icon.sprite = data.rangerAva;
         nameText.text = "Имечко: " + data.rangerName;

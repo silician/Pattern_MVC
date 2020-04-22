@@ -1,6 +1,6 @@
 ﻿namespace MVCvsMVP.Scripts
 {
-    public enum ERangerColor 
+    public enum ERangerColor // 2) Создали новую переменную для нашего RangerData
     {
         Green,
         Red,

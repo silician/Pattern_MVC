@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b559f88e-f360-4fcd-ae52-195dc5cca860" name="Default Changelist" comment="" />
+    <list default="true" id="b559f88e-f360-4fcd-ae52-195dc5cca860" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MVC MY/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MVC MY/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MVC MY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MVC MY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/ERangerColor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/ERangerColor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerInfoView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerInfoView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerViewController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerViewController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/Storage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/Storage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/84c911-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/84c911-mainStage.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/Storage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerInfoView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/StateCache/Hierarchy/84c911-mainStage.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerViewController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/ERangerColor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -22,16 +41,17 @@
         <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerStorage.cs" />
         <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/ItemData.cs" />
         <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/Inventory.cs" />
-        <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerData.cs" />
         <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/ERangerColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/Storage.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerInfoView.cs" />
         <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerView.cs" />
         <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerViewController.cs" />
-        <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/Storage.cs" />
-        <option value="$PROJECT_DIR$/Assets/MVCvsMVP/Scripts/RangerInfoView.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1aivkQ3lDUvN5lfEg0rqalQHADD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,6 +61,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -81,6 +102,9 @@
       <workItem from="1587241437306" duration="4204000" />
       <workItem from="1587287251635" duration="4100000" />
       <workItem from="1587313868510" duration="6621000" />
+      <workItem from="1587462446402" duration="323000" />
+      <workItem from="1587543451645" duration="819000" />
+      <workItem from="1587546293810" duration="2496000" />
     </task>
     <servers />
   </component>
